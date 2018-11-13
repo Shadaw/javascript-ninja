@@ -45,7 +45,7 @@ var comida = ['arroz', 'feijão', 'ovo'];
 comida[1];
 ```
 
-### Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
+### Digite o código que verifica se a variável `soma` é igual a variável `myvar` (testando também o tipo).
 ```js
 soma === myvar;
 ```
