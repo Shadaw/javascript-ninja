@@ -62,7 +62,7 @@ pessoa.mostrarPeso = () => `Eu peso ${pessoa.peso}Kg`;
 ```
 
 ### Crie um método chamado `mostrarAltura` que retorne a frase:
-`"Minha altura é [ALTURA]m."`
+`"Minha altura é [ALTURA]."`
 ```js
 pessoa.mostrarAltura = () => `Minha altura é ${pessoa.altura}`;
 ```
