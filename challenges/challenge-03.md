@@ -41,13 +41,13 @@ booleano que representa "verdadeiro";
 ```
 
 ### Crie um método chamado `nomeCompleto`, que retorne a frase:
-- "Olá! Meu nome é [NOME] [SOBRENOME]!"
+`"Olá! Meu nome é [NOME] [SOBRENOME]!"`
 ```js
 ?
 ```
 
 ### Crie um método chamado `mostrarIdade`, que retorne a frase:
-- "Olá, eu tenho [IDADE] anos!"
+`"Olá, eu tenho [IDADE] anos!"`
 ```js
 ?
 ```
