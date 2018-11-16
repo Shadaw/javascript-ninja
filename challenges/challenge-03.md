@@ -53,13 +53,13 @@ booleano que representa "verdadeiro";
 ```
 
 ### Crie um método chamado `mostrarPeso`, que retorne a frase:
-- "Eu peso [PESO]Kg."
+`"Eu peso [PESO]Kg."`
 ```js
 ?
 ```
 
 ### Crie um método chamado `mostrarAltura` que retorne a frase:
-- "Minha altura é [ALTURA]m."
+`"Minha altura é [ALTURA]m."`
 ```js
 ?
 ```
