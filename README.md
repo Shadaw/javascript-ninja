@@ -4,3 +4,4 @@
 - [01 - Variáveis e tipos de dados, Operadores aritméticos, Operadores de igualdade e relacionais, Funções](./challenges/challenge-01.md)
 - [02 - Operadores lógicos, Operadores unários, Estrutura léxica, Intruções condicionais](./challenges/challenge-02.md)
 - [03 - Tipos de dados e objetos, Métodos de objeto](./challenges/challenge-03.md)
+- [04 - Truthy e Falsy, Condicional ternário, Escopo de variáves e funções](./challenges/challenge-04.md)
