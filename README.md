@@ -6,3 +6,4 @@
 - [03 - Tipos de dados e objetos, Métodos de objeto](./challenges/challenge-03.md)
 - [04 - Truthy e Falsy, Condicional ternário, Escopo de variáves e funções](./challenges/challenge-04.md)
 - [05 - Retorno de funçoes com arrays objetos, Parametros de funções com arrays e objetos](./challenges/challenge-05.md)
+- [06 - Operador virgular e estrutura condicional switch, Estrutura de repetição while](./challenges/challenge-06.md)
