@@ -8,3 +8,4 @@
 - [05 - Retorno de funçoes com arrays objetos, Parametros de funções com arrays e objetos](./challenges/challenge-05.md)
 - [06 - Operador virgular e estrutura condicional switch, Estrutura de repetição while](./challenges/challenge-06.md)
 - [07 - Operador modulo, Arrays length e push, loop for](./challenges/challenge-07.md)
+- [08 - Importância de nomear funções, Functional programming](./challenges/challenge-08.md)
