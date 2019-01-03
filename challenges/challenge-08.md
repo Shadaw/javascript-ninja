@@ -88,7 +88,7 @@ var sum = calculator('+');
 
 ### Agora `sum` é uma função. Mostre no console a soma de dois números, usando ela.
 ```js
-console.log(sum(8, 2));// Resultado da operação: 8 + 2 = 10.
+console.log(sum(8, 2)); // Resultado da operação: 8 + 2 = 10.
 ```
 
 ### Agora, declare algumas variáveis com os nomes `subtraction`, `multiplication`, `division` e `mod`, e atribua a elas a função `calculator`, passando o operador correto por parâmetro para cada uma delas.
