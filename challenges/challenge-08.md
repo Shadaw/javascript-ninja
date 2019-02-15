@@ -101,8 +101,8 @@ var mod = calculator('%');
 
 ### Faça uma operação com cada uma das funções criadas acima, mostrando o resultado no console.
 ```js
-console.log(subtraction(8, 2));  // Resulatdo da operação: 8 - 2 = 6.
-console.log(multiplication(8, 2));  // Resulatdo da operação: 8 * 2 = 16.
-console.log(division(8, 2));  // Resulatdo da operação: 8 / 2 = 4.
-console.log(mod(8, 2));  // Resulatdo da operação: 8 % 2 = 0.
+console.log(subtraction(8, 2));  // Resultado da operação: 8 - 2 = 6.
+console.log(multiplication(8, 2));  // Resultado da operação: 8 * 2 = 16.
+console.log(division(8, 2));  // Resultado da operação: 8 / 2 = 4.
+console.log(mod(8, 2));  // Resultado da operação: 8 % 2 = 0.
 ```
