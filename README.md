@@ -9,3 +9,5 @@
 - [06 - Operador virgular e estrutura condicional switch, Estrutura de repetição while](./challenges/challenge-06.md)
 - [07 - Operador modulo, Arrays length e push, loop for](./challenges/challenge-07.md)
 - [08 - Importância de nomear funções, Functional programming](./challenges/challenge-08.md)
+- [09 - Escopo de funções, hoisting, IIFE](./challenges/challenge-09.md)
+- [10 - Wrapper objects, typeof](./challenges/challenge-10.md)
