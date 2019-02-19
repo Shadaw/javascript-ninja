@@ -12,3 +12,4 @@
 - [09 - Escopo de funções, hoisting, IIFE](./challenges/challenge-09.md)
 - [10 - Wrapper objects, typeof](./challenges/challenge-10.md)
 - [11 - Loops (Do while, for in) Saltos (return, break, continue) ](./challenges/challenge-11.md)
+- [11 - Criação de objetos, métodos de array ](./challenges/challenge-12.md)
