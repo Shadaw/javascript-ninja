@@ -11,3 +11,4 @@
 - [08 - Importância de nomear funções, Functional programming](./challenges/challenge-08.md)
 - [09 - Escopo de funções, hoisting, IIFE](./challenges/challenge-09.md)
 - [10 - Wrapper objects, typeof](./challenges/challenge-10.md)
+- [11 - Loops (Do while, for in) Saltos (return, break, continue) ](./challenges/challenge-11.md)
