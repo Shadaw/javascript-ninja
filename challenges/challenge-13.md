@@ -29,64 +29,66 @@ console.log(brasil);
 
 ### Adicione 3 novos estados da região Norte no início do array e mostre no console.
 ```js
+brasil.unshift('Acre', 'Amapá', 'Amazonas');
 console.log( '\nMais estados adicionados:' );
-// ?
+console.log(brasil);
 ```
 
 ### Remova o primeiro estado do array `brasil` e mostre-o no console.
 ```js
 console.log( '\nEstado removido:' );
+console.log(brasil.shift());
 // ?
 ```
 
 ### Crie um novo array chamado `newSul`, que receba somente os estados do sul, pegando do array `brasil`. Não remova esses itens de `brasil`.
 ```js
-// ?
+let newSul = brasil.slice(3, 6);
 ```
 
 ### Mostre no console os estados que estão em `newSul`.
 ```js
 console.log( '\nEstados do Sul do Brasil:' );
-// ?
+console.log(newSul);
 ```
 
 ### Mostre no console todos os estados que estão em `brasil`.
 ```js
 console.log( '\nAlguns Estados do Brasil:' );
-// ?
+console.log(brasil);
 ```
 
 ### Crie um novo array chamado `nordeste`, que tenha os estados do nordeste.
 ```js
-// ?
+let nordeste = ['Alagoas', 'Bahia', 'Ceará', 'Maranhão', 'Paraiba', 'Pernambuco', 'Piauí', 'Rio Grande do Norte', 'Sergipe'];
 ```
 
 ### Mostre no console os estados do nordeste.
 ```js
 console.log( '\nEstados do Nordeste:' );
-// ?
+console.log(nordeste);
 ```
 
 ### Remova de `brasil` os estados do `sudeste`, colocando-os em uma variável chamada `newSudeste`.
 ```js
-// ?
+let newSudeste = brasil.splice(5);
 ```
 
 ### Adicione os estados do `nordeste` ao array `brasil`. Esses estados devem ficar no mesmo nível que os estados já existentes, não em um array separado.
 ```js
-// ?
+brasil = brasil.concat(nordeste);
 ```
 
 ### Mostre no console os estados em `newSudeste`.
 ```js
 console.log( '\nEstados em newSudeste:' );
-// ?
+console.log(newSudeste);
 ```
 
 ### Mostre no console os estados do `brasil`.
 ```js
 console.log( '\nAlguns estados do Brasil:' );
-// ?
+console.log(brasil)
 ```
 
 ### usando forEach, percorra o array `brasil` e gere um novo array chamado `newBrasil`. Esse array deve ter cada item como um objeto, com as propriedades:
